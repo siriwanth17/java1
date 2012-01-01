@@ -1,8 +1,8 @@
-i  class print
+  class print
 {
 	public static void main(string[] args)
 	{
-		System.out.println("hello world,welcome to java programing");
+		System.out.println("hello world,welcome to software engineering");
 	}
 }
 
