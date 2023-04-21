@@ -2,7 +2,7 @@
 {
 	public static void main(string[] args)
 	{
-		System.out.println("hello world,welcome to software engineering");
+		System.out.println("hello world,welcome to se");
 	}
 }
 
